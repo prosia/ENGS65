@@ -11,4 +11,5 @@
 int main(){
 	cout<<"Hello World"<<endl;
 	cout<<"alex!";
+	cout<<"peter";
 }
