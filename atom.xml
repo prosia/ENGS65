@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://prosia.github.io/ENGS65/atom.xml" rel="self"/>
+  <link href="http://prosia.github.io/ENGS65/"/>
+  <updated>2013-06-26T12:45:49-07:00</updated>
+  <id>http://prosia.github.io/ENGS65/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
